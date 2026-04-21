@@ -17,7 +17,7 @@ Como Assistente de NOC, identifiquei a necessidade de padronizar a geração de 
 
 ## 📖 Como executar
 1. Clone o repositório: `git clone https://github.com/taydevjs/network-automation-python.git`
-2. Execute o script: `python gerador_l2l.py`
+2. Execute o script: `py gerador_l2l.py`
 3. Siga as instruções no terminal.
 
 ---
